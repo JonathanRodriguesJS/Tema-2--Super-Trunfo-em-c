@@ -114,7 +114,3 @@ Digite dois números correspondentes aos atributos: 1 3
 
 - **Densidade Populacional:** A cidade com a menor densidade populacional vence essa comparação.
 - **Atributos:** Para os outros atributos, vence a cidade com o maior valor.
-
-## Contribuindo
-
-Sinta-se à vontade para contribuir com o código! Se encontrar algum erro ou quiser sugerir melhorias, abra um **issue** ou envie um **pull request**.
